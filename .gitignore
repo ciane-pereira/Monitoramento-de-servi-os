@@ -1,0 +1,21 @@
+# Ambientes Virtuais
+venv/
+env/
+
+# Credenciais e Configurações Sensíveis
+*.pem
+.aws/
+*.env
+config.json
+
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Dependências instaladas via pip
+pip-wheel-metadata/
+
+# Outros temporários
+*.tmp

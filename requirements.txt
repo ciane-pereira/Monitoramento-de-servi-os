@@ -1,0 +1,4 @@
+dash
+psutil
+speedtest-cli
+plotly
